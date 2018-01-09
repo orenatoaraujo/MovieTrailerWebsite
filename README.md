@@ -9,13 +9,33 @@ Project 1 - Udacity - Nanodegree - Full Stack Web Developer
 - [on Debia/Linux](http://www.diveintopython.net/installing_python/debian.html)
 
 ## Running this project
-### clone repository
-`git clone https://github.com/orenatoaraujo/MovieTrailerWebsite.git`
+For running this project follow the below steps:
+
+### Open the terminal
+* On Windows
+ * Start menu
+ * Search by 'cmd'
+
+* On Linux
+ * Ctrl + Alt + t
+ * Or
+ * Search by 'terminal'
+
+### Navigate to a directory of your choice
+For example:
+
+* Linux
+ * `$ cd /home/myuser/projects`
+
+* Windows
+ * `$ cd c:\users\myuser\projects`
+
+
+### Clone repository
+`$ git clone https://github.com/orenatoaraujo/MovieTrailerWebsite.git`
 
 ### Access the project directory
-`cd MovieTrailerWebsite`
+`$ cd MovieTrailerWebsite`
 
 ### Execute file
-`python entertainment_center.py`
-
-Done, after running the `entertainment_center.py` script the browser will open with the list of favorite movies.
+`$ python entertainment_center.py`
